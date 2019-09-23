@@ -94,7 +94,7 @@ To run experiments on [OTB](http://cvlab.hanyang.ac.kr/tracker_benchmark/index.h
 
 ### Quick Start: Jupyter Notebook for Off-the-Shelf Usage
 
-Open [quick_examples.ipynb](https://github.com/got-10k/toolkit/tree/master/examples/quick_examples.ipynb) in [Jupyter Notebook](http://jupyter.org/) to see more examples on toolkit usage.
+Open [quick_examples.ipynb](https://github.com/got-10k/toolkit/tree/master/examples/quick_examples.ipynb) in [Jupyter Notebook](http://jupyter.org/) to see more examples on toolkit usage.   #Jupyter Notebook（此前被称为 IPython notebook）是一个交互式笔记本，支持运行 40 多种编程语言。
 
 ### How to Define a Tracker?
 
